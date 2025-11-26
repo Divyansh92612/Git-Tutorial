@@ -4,3 +4,5 @@ hi tgis readme.md file
 This readme file is used to tell the description of the content
 it is good
 byye bye
+
+print hello world in main.py file
